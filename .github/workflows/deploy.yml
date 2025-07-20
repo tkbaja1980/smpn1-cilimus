@@ -31,4 +31,4 @@ jobs:
           firebaseServiceAccount: '${{ secrets.FIREBASE_TOKEN }}' # Ganti nama secret ini jika berbeda
           projectId: 'proyek-nusantara-autokeren'
           channelId: live # 'live' untuk production, atau bisa juga untuk preview
-          target: 'smpn1-cilimus' #
+          target: 'smpn1-cilimus.t-cel.com' #
