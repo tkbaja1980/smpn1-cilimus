@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "target": "smpn1-cilimus",
+    "target": "smpn1-cilimus.-t-cel.com",
     "public": "out",
     "ignore": [
       "firebase.json",
