@@ -5,8 +5,8 @@
   "targets": {
     "proyek-nusantara-autokeren": {
       "hosting": {
-        "smpn1-cilimus": [
-          "smpn1-cilimus"
+        "smpn1-cilimus.t-cel.com": [
+          "smpn1-cilimus.t-cel.com"
         ]
       }
     }
